@@ -1,0 +1,6 @@
+*.yaml
+
+dist
+coverage
+node_modules
+.git
